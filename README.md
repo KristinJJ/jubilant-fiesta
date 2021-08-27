@@ -6,6 +6,7 @@ DEMO
   * Making a Repo on Github
 
 # Setup
+* Making a change
 
 # Testing
 
